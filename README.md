@@ -5,3 +5,5 @@
 ### 学习计划
 
 ### &emsp;[编程能力入门](./Study%20Plan/Programming%20Skills%20I/README.md)
+
+### &emsp;[编程能力基础](./Study%20Plan/Programming%20Skills%20II/README.md)
