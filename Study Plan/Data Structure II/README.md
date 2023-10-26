@@ -74,3 +74,7 @@
 [199. 二叉树的右视图](./199.md)
 
 [113. 路径总和 II](./113.md)
+
+[450. 删除二叉搜索树中的节点](./450.md)
+
+[230. 二叉搜索树中第 K 小的元素](https://leetcode.cn/problems/kth-smallest-element-in-a-bst)
