@@ -77,4 +77,4 @@
 
 [450. 删除二叉搜索树中的节点](./450.md)
 
-[230. 二叉搜索树中第 K 小的元素](https://leetcode.cn/problems/kth-smallest-element-in-a-bst)
+[230. 二叉搜索树中第 K 小的元素](./230.md)
