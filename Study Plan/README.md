@@ -9,3 +9,7 @@
 ### [数据结构入门](./Data%20Structure%20I/README.md)
 
 ### [数据结构基础](./Data%20Structure%20II/README.md)
+
+### [算法入门](./Algorithm%20I/README.md)
+
+### [算法基础](./Algorithm%20II/README.md)
