@@ -13,3 +13,5 @@
 ### [算法入门](./Algorithm%20I/README.md)
 
 ### [算法基础](./Algorithm%20II/README.md)
+
+### [动态规划入门](./Dynamic%20Programming%20I/README.md)
